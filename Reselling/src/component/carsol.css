@@ -1,0 +1,10 @@
+.carousel-container {
+    height: 90vh;
+/* 90% of viewport height */
+    overflow: hidden; /* Hide overflowing content */
+  }
+
+.carousel-item h5,p{
+    color:darkgray;
+    font-weight: 700;
+}
